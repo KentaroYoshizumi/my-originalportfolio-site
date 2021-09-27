@@ -1,5 +1,28 @@
 @charset "utf-8";
 
+.title {
+  color: #12293b;
+  padding: 10px;
+}
+
+.About {
+  color: #eb5f07;
+  padding: 10px;
+}
+
+.Works {
+  color: #eaeded;
+  padding: 10px;
+}
+
+p {
+  padding: 20px;
+}
+
+a {
+  padding: 10px;
+}
+
 /* ユニバーサルセレクタでデフォルトの余白をリセット */
 * {
 	margin: 0;
