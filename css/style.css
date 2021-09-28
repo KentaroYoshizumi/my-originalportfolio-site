@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-  background-image: url(images/top.jpg);
+  background-image: url(./top.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
