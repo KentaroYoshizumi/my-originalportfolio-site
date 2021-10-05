@@ -729,7 +729,7 @@ body::before {
   padding: 0.5em 1em;
   margin: 80px auto 10px;
   background: #fff8e8;
-  border-left: solid 10px #ffc06e;
+  border-left: solid 10px #00FFFF;
 }
 
 .capture_video{
