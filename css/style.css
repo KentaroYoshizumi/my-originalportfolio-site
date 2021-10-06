@@ -780,9 +780,9 @@ body::before {
   justify-content: space-between;
 }
 
-.red-bold{
+.blue-bold{
   font-weight: bold;
-  color: red;
+  color: blue;
 }
 
 .about_me{
